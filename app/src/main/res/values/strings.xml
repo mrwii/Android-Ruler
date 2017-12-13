@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Android Ruler</string>
+    <string name="view_in_100_dp">view in\n100 x 100 dp"</string>
+    <string name="label_bitmap_info_drawable">bitmap in drawable</string>
+    <string name="label_bitmap_info_mdpi">bitmap in mdpi</string>
+    <string name="label_bitmap_info_hdpi">bitmap in hdpi</string>
+    <string name="label_bitmap_info_xhdpi">bitmap in xhdpi</string>
+    <string name="label_bitmap_info_xxhdpi">bitmap in xxhdpi</string>
+    <string name="label_bitmap_info_xxxhdpi">bitmap in xxxhdpi</string>
+    <string name="tv_size_default">TextView size default</string>
+    <string name="tv_size_10">TextView size 10sp</string>
+    <string name="tv_size_12">TextView size 12sp</string>
+    <string name="tv_size_14">TextView size 14sp</string>
+    <string name="tv_size_16">TextView size 16sp</string>
+    <string name="tv_size_18">TextView size 18sp</string>
+    <string name="tv_size_20">TextView size 20sp</string>
+    <string name="tv_size_25">TextView 25sp</string>
+    <string name="tv_size_30">TextView 30sp</string>
+    <string name="tv_size_40">TextView 40sp</string>
+    <string name="tv_size_50">TextView 50sp</string>
+    <string name="tv_size_100">100sp</string>
+    <string name="contentDescription">IMAGE</string>
 </resources>
